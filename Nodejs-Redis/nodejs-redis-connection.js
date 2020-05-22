@@ -17,11 +17,11 @@ var ping = function(e) {
 
 try {
     var client = new Redis({
-        host: 'my-cache-cluster.pocyw8.ng.0001.use2.cache.amazonaws.com',
+        host: 'my-cacxxxxxxxxxxxxxxxxxxxxxxxxxamazonaws.com',
         port: 6379,
-        password: 'Ishtiaq123',
+        password: 'Ixxxxxxxxxxxxxxx',
         tls: {
-            ca: fs.readFileSync('C:\Users\SANDY\Downloads\AWS INFO\mycacheinstance.pem')
+            ca: fs.readFileSync('C:\Users\SANDY\Downloads\AWS INFO\myxxxxxxxxxx.pem')
         }
     });
 
