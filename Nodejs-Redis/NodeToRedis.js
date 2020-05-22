@@ -12,9 +12,9 @@ const client=redis.createClient(REDIS_PORT);
 const app=express();
 ++++++++++  
 var con = mysql.createConnection({
-    host: "database-4.cu59gsoyy27r.us-east-2.rds.amazonaws.com",
-    user: "admin4",
-    password: "password4",
+    host: "databasxxxxxxxxxxxxxxxxxrds.amazonaws.com",
+    user: "axxxxxxxxx4",
+    password: "axxxxxxxx",
     database:"javatpoint"
   });
 
