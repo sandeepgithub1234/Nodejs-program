@@ -1,29 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 var redis = require("redis");
 client = redis.createClient(6379, 'my-cache-cluster.pocyw8.ng.0001.use2.cache.amazonaws.com', {}); 
