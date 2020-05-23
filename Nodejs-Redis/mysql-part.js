@@ -5,10 +5,10 @@ let dataa = [];
 
 
 var con = mysql.createConnection({
-    host: "database-4.cu59gsoyy27r.us-east-2.rds.amazonaws.com",
+    host: "xxxxxxxxxxxxxxxxxxxxx",
     user: "admin4",
-    password: "password4",
-    database:"javatpoint"
+    password: "paxxxxxxx",
+    database:"jaxxxx"
   });
 
   
