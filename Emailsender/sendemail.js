@@ -11,8 +11,20 @@ var transporter = nodemailer.createTransport({
 
 var mailOptions = {
   from: 'sandxxxxxxxxxxxxx@gmail.com',
-  to: 'sandexxxxxxxxxxxxxxx@gmail.com',
+  to: 'vcsanxxxdexxxxxxxxxxxxxxx@gmail.com',
   subject: 'Sending Email using Node.js',
+  text:"Hi guys ,Welcome to the learning points",
+  attachments:[
+            {
+                path : '../data1.xlsx'
+            },
+            {
+                path : '../readme.txt'
+            },
+            {
+                path:  './file.txt'
+            }
+        ]
   html: '<h style="background-color:yellow"><h1 style="color:blue">Welcome</h1><p>That was easy!</p></h>'
 };
 
