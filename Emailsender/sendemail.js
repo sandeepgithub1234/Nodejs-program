@@ -13,7 +13,7 @@ var mailOptions = {
   from: 'sandxxxxxxxxxxxxx@gmail.com',
   to: 'vcsanxxxdexxxxxxxxxxxxxxx@gmail.com',
   subject: 'Sending Email using Node.js',
-  text:"Hi guys ,Welcome to the learning points",
+  //text:"Hi guys ,Welcome to the learning points",
   attachments:[
             {
                 path : '../data1.xlsx'
